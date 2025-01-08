@@ -1,6 +1,6 @@
 .header {
     background-color: #1f2937;
-    height: 175px;
+    height: 100px;
     margin: 0%;
     padding: 0%;
     display: flex;
@@ -12,13 +12,39 @@
     gap: 16px;
 }
 
+a {
+    color: #f9faf8;
+}
+
+.logo {
+    background-color: #1f2937;
+    height: 125px;
+    display: flex;
+}
+
+h1 {
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 10px;
+    margin-top: 0;
+    font-size: 35px;
+}
+
+p {
+    color: #f9faf8;
+    font-size: 18px;
+}
+
 .images {
-    background-color: rgb(25, 180, 180);
+    background-color: #f9faf8;
     height: 175px;
 }
 
 .quote {
-    background-color: rgb(128, 128, 15);
+    background-color: #cbc2ec;
     height: 175px;
 }
 
