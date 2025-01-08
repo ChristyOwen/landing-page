@@ -1,0 +1,28 @@
+.header {
+    background-color: #1f2937;
+    height: 175px;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+.header-links {
+    display: flex;
+    margin-left: auto;
+    padding: 8px;
+    gap: 16px;
+}
+
+.images {
+    background-color: rgb(25, 180, 180);
+    height: 175px;
+}
+
+.quote {
+    background-color: rgb(128, 128, 15);
+    height: 175px;
+}
+
+.action {
+    background-color: blueviolet;
+    height: 175px;
+}
