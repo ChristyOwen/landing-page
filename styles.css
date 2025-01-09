@@ -23,7 +23,7 @@ a {
 .logo h1 {
     color: #f9faf8;
     display: flex;
-    
+    margin-left: 25px;
     font-size: 35px;
 }
 
